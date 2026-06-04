@@ -150,37 +150,37 @@ ORD-001,2024-01-05,CUST-101,Acme Corp,Laptop,Electronics,North,1,1200.00,1200.00
 
 ### 🏠 Dashboard
 ![Dashboard](dashboard1.png)
-![Dashboard](screenshots/dashboard2.png)
+![Dashboard](dashboard2.png)
 
 ---
 
 ### 📊 Sales Analytics
-![Sales Analytics](screenshots/sales_analytics.png)
+![Sales Analytics](sales_analytics.png)
 
 ---
 
 ### 👥 Customer Intelligence
-![Customer Intelligence](screenshots/customer_intelligence.png)
+![Customer Intelligence](customer_intelligence.png)
 
 ---
 
 ### 💰 Profit Analysis
-![Profit Analysis](screenshots/profit__analysis.png)
+![Profit Analysis](profit__analysis.png)
 
 ---
 
 ### 🔮 Forecasting
-![Forecasting](screenshots/forecasting.png)
+![Forecasting](forecasting.png)
 
 ---
 
 ### 🔍 Filter & Explore Reports
-![Filter Explore](screenshots/filter_explore.png)
+![Filter Explore](filter_explore.png)
 
 ---
 
 ### 📡 API Docs
-![API Docs](screenshots/api.docs.png)
+![API Docs](api.docs.png)
 
 ---
 
