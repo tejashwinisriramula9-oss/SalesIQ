@@ -145,7 +145,59 @@ ORD-001,2024-01-05,CUST-101,Acme Corp,Laptop,Electronics,North,1,1200.00,1200.00
 
 ---
 
-##Screenshots
+
+## 📸 Screenshots
+
+### 🏠 Dashboard
+![Dashboard](screenshots/dashboard1.png)
+![Dashboard](screenshots/dashboard2.png)
+
+---
+
+### 📊 Sales Analytics
+![Sales Analytics](screenshots/sales_analytics.png)
+
+---
+
+### 👥 Customer Intelligence
+![Customer Intelligence](screenshots/customer_intelligence.png)
+
+---
+
+### 💰 Profit Analysis
+![Profit Analysis](screenshots/profit__analysis.png)
+
+---
+
+### 🔮 Forecasting
+![Forecasting](screenshots/forecasting.png)
+
+---
+
+### 🔍 Filter & Explore Reports
+![Filter Explore](screenshots/filter_explore.png)
+
+---
+
+### 📡 API Docs
+![API Docs](screenshots/api.docs.png)
+
+---
+
+## ⚙️ Setup Instructions
+
+```bash
+# Clone repository
+git clone https://github.com/your-username/salesiq.git
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run backend
+uvicorn backend.main:app --reload
+
+# Run frontend
+streamlit run app.py
 
 
 ## 📄 License
