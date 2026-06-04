@@ -165,7 +165,7 @@ ORD-001,2024-01-05,CUST-101,Acme Corp,Laptop,Electronics,North,1,1200.00,1200.00
 ---
 
 ### 💰 Profit Analysis
-![Profit Analysis](profit__analysis.png)
+![Profit Analysis](profit_analysis.png)
 
 ---
 
