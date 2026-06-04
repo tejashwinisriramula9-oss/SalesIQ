@@ -149,7 +149,7 @@ ORD-001,2024-01-05,CUST-101,Acme Corp,Laptop,Electronics,North,1,1200.00,1200.00
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
-![Dashboard](screenshots/dashboard1.png)
+![Dashboard](dashboard1.png)
 ![Dashboard](screenshots/dashboard2.png)
 
 ---
