@@ -6,9 +6,9 @@ A full-stack business intelligence web application that transforms raw CSV sales
 
 | Service | URL |
 |---|---|
-| Frontend Dashboard | [Streamlit Cloud](#) |
-| Backend API | [Render](#) |
-| Swagger Docs | `/docs` on backend URL |
+| Frontend Dashboard | https://tejashwinisriramula9-oss-salesiq-app-axccm8.streamlit.app/ |
+| Backend API | https://salesiq-backend-3yr9.onrender.com |
+| Swagger Docs | https://salesiq-backend-3yr9.onrender.com/docs |
 
 ---
 
@@ -145,16 +145,8 @@ ORD-001,2024-01-05,CUST-101,Acme Corp,Laptop,Electronics,North,1,1200.00,1200.00
 
 ---
 
-## 🏆 Resume Highlights
+##Screenshots
 
-- Built a full-stack BI platform with **FastAPI + Streamlit + SQLAlchemy**
-- Implemented **ML revenue forecasting** (Linear Regression, configurable horizon)
-- Designed **dual-layer persistence** (RAM cache + SQLite) for fast reads + durability
-- Created **RFM customer segmentation** and K-Means clustering
-- Built a **premium SaaS-grade UI** with Light/Dark theme system
-- Fixed 13 production bugs including Pandas deprecation, numpy JSON serialization, and Streamlit render lifecycle issues
-
----
 
 ## 📄 License
 
