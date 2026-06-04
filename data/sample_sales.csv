@@ -1,0 +1,46 @@
+Order ID,Order Date,Customer ID,Customer Name,Product,Category,Region,Quantity,Unit Price,Revenue,Cost,Profit
+ORD-001,2024-01-05,CUST-101,Acme Corp,Laptop,Electronics,North,1,1200.00,1200.00,720.00,480.00
+ORD-002,2024-01-08,CUST-102,TechVision Inc,Monitor,Electronics,South,2,350.00,700.00,350.00,350.00
+ORD-003,2024-01-12,CUST-103,Global Solutions,Office Chair,Furniture,East,4,250.00,1000.00,600.00,400.00
+ORD-004,2024-01-15,CUST-104,Premier Retail,Desk Lamp,Furniture,West,3,120.00,360.00,180.00,180.00
+ORD-005,2024-01-18,CUST-105,Innovate Corp,Keyboard,Electronics,North,5,80.00,400.00,200.00,200.00
+ORD-006,2024-01-22,CUST-106,NextGen Industries,Standing Desk,Furniture,South,2,800.00,1600.00,800.00,800.00
+ORD-007,2024-01-25,CUST-107,Digital Transform,Mouse,Electronics,East,10,35.00,350.00,140.00,210.00
+ORD-008,2024-01-28,CUST-108,CloudFirst Ltd,Ergonomic Chair,Furniture,West,3,450.00,1350.00,675.00,675.00
+ORD-009,2024-02-02,CUST-109,Quantum Systems,Router,Electronics,North,2,180.00,360.00,144.00,216.00
+ORD-010,2024-02-05,CUST-110,Elite Management,Bookshelf,Furniture,South,4,200.00,800.00,400.00,400.00
+ORD-011,2024-02-08,CUST-111,Peak Performance,Printer,Electronics,East,1,500.00,500.00,275.00,225.00
+ORD-012,2024-02-12,CUST-105,Innovate Corp,Monitor,Electronics,North,3,350.00,1050.00,525.00,525.00
+ORD-013,2024-02-15,CUST-112,Strategic Alliance,Desk Organizer,Furniture,West,6,45.00,270.00,108.00,162.00
+ORD-014,2024-02-18,CUST-113,Growth Partners,Webcam,Electronics,South,2,120.00,240.00,96.00,144.00
+ORD-015,2024-02-22,CUST-114,Future Vision,Laptop Stand,Furniture,East,5,90.00,450.00,180.00,270.00
+ORD-016,2024-02-25,CUST-103,Global Solutions,External Hard Drive,Electronics,North,4,120.00,480.00,216.00,264.00
+ORD-017,2024-02-28,CUST-115,Enterprise Hub,Monitor Arm,Furniture,West,3,180.00,540.00,216.00,324.00
+ORD-018,2024-03-04,CUST-116,Smart Commerce,Headphones,Electronics,South,2,200.00,400.00,160.00,240.00
+ORD-019,2024-03-07,CUST-117,Digital Leaders,Office Cabinet,Furniture,East,2,600.00,1200.00,600.00,600.00
+ORD-020,2024-03-10,CUST-104,Premier Retail,USB Hub,Electronics,North,8,40.00,320.00,128.00,192.00
+ORD-021,2024-03-14,CUST-118,Nexus Corp,Desk Pad,Furniture,West,4,65.00,260.00,104.00,156.00
+ORD-022,2024-03-17,CUST-119,Vision Digital,USB Cable,Electronics,South,15,12.00,180.00,54.00,126.00
+ORD-023,2024-03-20,CUST-120,Evolution Tech,Filing Cabinet,Furniture,East,2,450.00,900.00,450.00,450.00
+ORD-024,2024-03-23,CUST-121,Horizon Solutions,Laptop Bag,Furniture,North,5,85.00,425.00,170.00,255.00
+ORD-025,2024-03-26,CUST-122,Prosperity Inc,Speaker,Electronics,West,3,150.00,450.00,180.00,270.00
+ORD-026,2024-03-29,CUST-102,TechVision Inc,Desk,Furniture,South,2,900.00,1800.00,900.00,900.00
+ORD-027,2024-04-02,CUST-123,Dynamic Enterprise,Power Bank,Electronics,East,6,50.00,300.00,120.00,180.00
+ORD-028,2024-04-05,CUST-124,Momentum Group,Office Partition,Furniture,North,2,700.00,1400.00,700.00,700.00
+ORD-029,2024-04-08,CUST-125,Apex Solutions,Screen Protector,Electronics,West,20,8.00,160.00,48.00,112.00
+ORD-030,2024-04-12,CUST-126,Velocity Partners,Desk Shelf,Furniture,South,3,120.00,360.00,144.00,216.00
+ORD-031,2024-04-15,CUST-127,Catalyst Tech,Cable Organizer,Furniture,East,10,35.00,350.00,140.00,210.00
+ORD-032,2024-04-18,CUST-128,Rising Enterprises,Portable Monitor,Electronics,North,1,350.00,350.00,140.00,210.00
+ORD-033,2024-04-22,CUST-129,Stellar Business,Under Desk Drawer,Furniture,West,4,95.00,380.00,152.00,228.00
+ORD-034,2024-04-25,CUST-130,Ascend Corp,Docking Station,Electronics,South,2,200.00,400.00,160.00,240.00
+ORD-035,2024-04-28,CUST-131,Zenith Industries,Monitor Light Bar,Electronics,East,3,120.00,360.00,144.00,216.00
+ORD-036,2024-05-02,CUST-132,Pioneer Ventures,Executive Chair,Furniture,North,1,650.00,650.00,325.00,325.00
+ORD-037,2024-05-05,CUST-133,Stellar Communications,Microphone,Electronics,West,2,180.00,360.00,144.00,216.00
+ORD-038,2024-05-08,CUST-134,Quantum Leap Inc,Whiteboard,Furniture,South,3,200.00,600.00,240.00,360.00
+ORD-039,2024-05-12,CUST-135,Alliance Strategic,HDMI Cable,Electronics,East,12,15.00,180.00,54.00,126.00
+ORD-040,2024-05-15,CUST-136,Boundless Tech,Desk Hutch,Furniture,North,2,550.00,1100.00,550.00,550.00
+ORD-041,2024-05-18,CUST-137,Momentum Digital,Graphics Tablet,Electronics,West,1,400.00,400.00,160.00,240.00
+ORD-042,2024-05-22,CUST-138,Pulse Enterprise,Wall-mounted Shelf,Furniture,South,5,150.00,750.00,300.00,450.00
+ORD-043,2024-05-25,CUST-139,Evolution Partners,Bluetooth Speaker,Electronics,East,4,130.00,520.00,208.00,312.00
+ORD-044,2024-05-28,CUST-140,Apex Digital,Monitor Riser,Furniture,North,6,110.00,660.00,264.00,396.00
+ORD-045,2024-05-31,CUST-141,Nexus Energy,Wireless Mouse,Electronics,West,5,60.00,300.00,120.00,180.00

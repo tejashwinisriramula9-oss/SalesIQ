@@ -1,0 +1,48 @@
+# SalesIQ - Enterprise AI Sales Intelligence Platform
+# Generated: 2026-06-03 - Cleaned and verified dependencies only
+
+# Backend Framework
+fastapi==0.136.3
+uvicorn[standard]==0.48.0
+starlette==1.2.1
+pydantic>=2.0
+
+# File Upload & Handling
+python-multipart>=0.0.30
+
+# Data Processing
+pandas>=3.0.0
+numpy>=2.4.0
+scipy>=1.17.0
+
+# Machine Learning & Analytics
+scikit-learn>=1.8.0
+
+# Database ORM
+sqlalchemy>=2.0.0
+
+# Frontend Visualization
+streamlit>=1.58.0
+plotly>=6.0.0
+
+# HTTP & API
+requests>=2.34.0
+
+# Excel Export Support
+openpyxl>=3.0.0
+
+# Utilities
+python-dateutil>=2.9.0
+pytz>=2024.0
+
+# Optional: Advanced Analytics
+statsmodels>=0.14.0
+joblib>=1.5.0
+
+# Optional: Logging (if used)
+# loguru>=0.7.0
+
+# Development & Testing (uncomment as needed)
+# pytest>=7.0.0
+# black>=23.0.0
+# pylint>=2.17.0

@@ -1,0 +1,61 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── Virtual environment ────────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Database (do NOT commit the SQLite file — it contains user data) ──────────
+*.db
+*.sqlite
+*.sqlite3
+
+# ── Environment / secrets ─────────────────────────────────────────────────────
+.env
+.env.local
+.env.production
+*.pem
+*.key
+
+# ── OS files ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editor ────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Temp / debug scripts ──────────────────────────────────────────────────────
+debug_upload.py
+diagnose_all.py
+diagnose_dashboard.py
+check_db.py
+test_schema.py
+scan_freq.py
+check_nav.py
+url_check.py
+
+# ── Streamlit cache ───────────────────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Reports output ────────────────────────────────────────────────────────────
+reports/*.csv
+reports/*.pdf
+reports/*.xlsx
