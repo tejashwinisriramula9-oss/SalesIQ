@@ -1165,8 +1165,11 @@ def main():
     inject_css()
 
     # ── Sidebar: API URL (above everything else) ──
+    # On Render the backend URL comes from an env var; locally defaults to 8000
+    import os as _os
+    _default_api = _os.environ.get("BACKEND_URL", "https://salesiq-backend-3yr9.onrender.com")
     api_url = st.sidebar.text_input(
-        "Backend URL", value="http://127.0.0.1:8000", key="api_url_input"
+        "Backend URL", value=_default_api, key="api_url_input"
     ).rstrip("/")
 
     # ── Health check ──
